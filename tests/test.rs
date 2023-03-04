@@ -9,4 +9,9 @@ mod tests {
     fn asd() {
         assert!(false);
     }
+
+    #[test]
+    fn assd() {
+        assert!(false);
+    }
 }
